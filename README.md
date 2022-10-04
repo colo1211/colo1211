@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=KyungWonKim&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=안녕하세요😊&fontSize=30)
 
 
 <div align=center><h1>📚 SKill Stack</h1></div>
@@ -30,7 +30,3 @@
   <br>
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 </div>
-
-
-<div align=center><h1>📚 Languages</h1></div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colo1211)](https://github.com/anuraghazra/github-readme-stats)
