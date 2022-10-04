@@ -43,4 +43,4 @@
 | Rubminds        | 팀                | 2021.10 ~ 2022.2      | 프론트엔드 개발 및 디자인(Adobe XD) 및 팀장         | [이동](https://github.com/Rubminds/rubminds-frontend)                                        |
 | Tracious        | 팀(DND 대외활동)  | 2022.02 ~ 2022.08     | 프론트엔드 개발                                     | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
 | EyePallete      | 팀(전공과목)      | 2022.06               | 프론트엔드 및 Flask 를 활용한 단순 백엔드 구현      | [이동](https://github.com/BCI-Project-2022/EyePallete-FE_BE)                                 |
-| SMULO           | 팀(캡스톤 디자인) | 2022.03 ~ 2022.08     | 프론트엔드 개발 및 디자인(Figma)                    | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
+| SMULO           | 팀(캡스톤 디자인) | 2022.03 ~ 2022.08     | 프론트엔드 개발 및 디자인(Figma)                    | [이동](https://github.com/smu-commuting/smu-commuting)                               |
