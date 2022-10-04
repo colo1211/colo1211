@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=안녕하세요😊&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=KyungWon_Kim&fontSize=30)
 
 
 <div align=center><h1>📚 SKill Stack</h1></div>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 </div>
 
-<div align=center><h1>Project List</h1></div>
+<div align=center><h1>💻 Project List</h1></div>
 
 | 제목            | 구분              | 기간                  | 역할                                                | 레포지토리                                                                                   |
 |-----------------|-------------------|-----------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|
