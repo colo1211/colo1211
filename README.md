@@ -3,6 +3,9 @@
 
 <div align=center><h1>📚 SKill Stack</h1></div>
 <div align=center> 
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
@@ -30,3 +33,13 @@
   <br>
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 </div>
+
+<div align=center><h1>Project List</h1></div>
+|제목|구분|기간|역할|링크|
+|------|---|---|---|---|
+|트위터 클론코딩|개인|2021.08.23~2021.10.3|리액트 및 파이어베이스 학습 목적 클론코딩|[이동](https://github.com/colo1211/WEB_Side_Project-Twitter_Clone)
+|Notice Board 프로젝트|개인|2021.09.15~2021.09.26|프로젝트 투입 이전 API 문서를 보며 개발|[이동](https://github.com/colo1211/https://github.com/colo1211/WEB_Pre_Project-Notice_Board)
+|Rubminds|팀|2021.10 ~ 2022.2|프론트엔드 개발 및 디자인(Adobe XD) 및 팀장|[이동](https://github.com/Rubminds/rubminds-frontend)
+|DND-Tracious|팀|2022.02 ~ 2022.08|프론트엔드 개발|[이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)
+|EyePallete|팀(전공과목)|2022.06|전공과목 팀프로젝트 - 프론트엔드 및 Flask 를 활용한 단순 백엔드 구현|[이동](https://github.com/BCI-Project-2022/EyePallete-FE_BE)
+|SMULO|팀|2022.03 ~ 2022.08|캡스톤 디자인 - 프론트엔드 개발 및 디자인(Figma)|[이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)
