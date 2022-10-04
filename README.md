@@ -74,11 +74,11 @@
 
 <div align=center><h1>Project List</h1></div>
 
-| 제목            | 구분              | 기간                  | 역할                                                | 레포지토리                                                                                   |
-|-----------------|-------------------|-----------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------|
-| 트위터 클론코딩 | 개인              | 2021.08.23~2021.10.3  | 리액트 및 파이어베이스 학습 목적 클론코딩           | [이동](https://github.com/colo1211/WEB_Side_Project-Twitter_Clone)                           |
-| Notice Board    | 개인              | 2021.09.15~2021.09.26 | 팀 프로젝트 이전 API 문서를 보며 개발한 Pre-Project | [이동](https://github.com/colo1211/https://github.com/colo1211/WEB_Pre_Project-Notice_Board) |
-| Rubminds        | 팀                | 2021.10 ~ 2022.2      | 프론트엔드 개발 및 디자인(Adobe XD) 및 팀장         | [이동](https://github.com/Rubminds/rubminds-frontend)                                        |
-| Tracious        | 팀(DND 대외활동)  | 2022.02 ~ 2022.08     | 프론트엔드 개발                                     | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)\|                             |
-| EyePallete      | 팀(전공과목)      | 2022.06               | 프론트엔드 및 Flask 를 활용한 단순 백엔드 구현      | [이동](https://github.com/BCI-Project-2022/EyePallete-FE_BE)                                 |
-| SMULO           | 팀(캡스톤 디자인) | 2022.03 ~ 2022.08     | 프론트엔드 개발 및 디자인(Figma)                    | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
+|       제목      |        구분       |          기간         |                         역할                        |                                          레포지토리                                          |
+|:---------------:|:-----------------:|:---------------------:|:---------------------------------------------------:|:--------------------------------------------------------------------------------------------:|
+| 트위터 클론코딩 |        개인       |  2021.08.23~2021.10.3 |      리액트 및 파이어베이스 학습 목적 클론코딩      | [이동](https://github.com/colo1211/WEB_Side_Project-Twitter_Clone)                           |
+|   Notice Board  |        개인       | 2021.09.15~2021.09.26 | 팀 프로젝트 이전 API 문서를 보며 개발한 Pre-Project | [이동](https://github.com/colo1211/https://github.com/colo1211/WEB_Pre_Project-Notice_Board) |
+|     Rubminds    |         팀        |    2021.10 ~ 2022.2   |     프론트엔드 개발 및 디자인(Adobe XD) 및 팀장     | [이동](https://github.com/Rubminds/rubminds-frontend)                                        |
+|     Tracious    |  팀(DND 대외활동) |   2022.02 ~ 2022.08   |                   프론트엔드 개발                   | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
+|    EyePallete   |    팀(전공과목)   |        2022.06        |    프론트엔드 및 Flask 를 활용한 단순 백엔드 구현   | [이동](https://github.com/BCI-Project-2022/EyePallete-FE_BE)                                 |
+|      SMULO      | 팀(캡스톤 디자인) |   2022.03 ~ 2022.08   |           프론트엔드 개발 및 디자인(Figma)          | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
