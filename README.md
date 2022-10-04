@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=70&section=header&text=방문해주셔서🙌감사합니다😊&fontSize=30)
 
+<br>
+<br>
 
 <div align=center><h1>📚 SKill Stack</h1></div>
 <div align=center> 
@@ -34,6 +36,9 @@
   <img src="https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white">
 </div>
 
+<br>
+<br>
+
 <div align=center><h1>💻 Project List</h1></div>
 
 | 제목            | 구분              | 기간                  | 역할                                                | 레포지토리                                                                                   |
@@ -44,3 +49,7 @@
 | Tracious        | 팀(DND 대외활동)  | 2022.02 ~ 2022.08     | 프론트엔드 개발                                     | [이동](https://github.com/dnd-side-project/dnd-6th-8-frontend)                               |
 | EyePallete      | 팀(전공과목)      | 2022.06               | 프론트엔드 및 Flask 를 활용한 단순 백엔드 구현      | [이동](https://github.com/BCI-Project-2022/EyePallete-FE_BE)                                 |
 | SMULO           | 팀(캡스톤 디자인) | 2022.03 ~ 2022.08     | 프론트엔드 개발 및 디자인(Figma)                    | [이동](https://github.com/smu-commuting/smu-commuting)                               |
+
+<br>
+<br>
+
