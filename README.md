@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=FE-KimKyungWon&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=KyungWon Kim&fontSize=30)
 
 
 <div align=center><h1>📚 SKill Stack</h1></div>
