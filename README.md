@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=70&section=header&text=방문해주셔서🙌감사합니다😊&fontSize=30)
-[![Kyungwon's github stats](https://github-readme-stats.vercel.app/api?username=colo1211&show_icons=true&theme=dracula)](https://github.com/colo1211/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colo1211&layout=compact&theme=dracula)](https://github.com/colo1211)
+
 <br>
 <br>
 
