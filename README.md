@@ -36,7 +36,7 @@
 
 <div align=center><h1>Project List</h1></div>
 |제목|구분|기간|역할|링크|
-|------|---|---|---|---|
+|------|---|---|--------|---|
 |트위터 클론코딩|개인|2021.08.23~2021.10.3|리액트 및 파이어베이스 학습 목적 클론코딩|[이동](https://github.com/colo1211/WEB_Side_Project-Twitter_Clone)
 |Notice Board 프로젝트|개인|2021.09.15~2021.09.26|프로젝트 투입 이전 API 문서를 보며 개발|[이동](https://github.com/colo1211/https://github.com/colo1211/WEB_Pre_Project-Notice_Board)
 |Rubminds|팀|2021.10 ~ 2022.2|프론트엔드 개발 및 디자인(Adobe XD) 및 팀장|[이동](https://github.com/Rubminds/rubminds-frontend)
