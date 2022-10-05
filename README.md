@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=70&section=header&text=방문해주셔서🙌감사합니다😊&fontSize=30)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=700&section=header&text=방문해주셔서🙌감사합니다😊&fontSize=30)
 
 <br>
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcolo1211%2Fhit-counter&count_bg=%23FF7F00&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <div align=center><h1>📚 SKill Stack</h1></div>
 <div align=center> 
