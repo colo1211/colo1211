@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=700&section=header&text=방문해주셔서%20감사합니다😊&fontSize=30&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=main&text=방문해주셔서%20감사합니다😊&fontSize=30)
 
 <br>
 <br>
